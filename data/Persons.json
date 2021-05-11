@@ -1,0 +1,76 @@
+{
+"persons": [
+{
+  "personCode": "944c",
+  "firstName": " Starlin",
+  "lastName": "Castro",
+  "address": {
+    "street": "1060 West Addison Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "country": "USA"
+  },
+  "emails": [
+    "scastro@cubs.com",
+    "starlin_castro13@gmail.com"
+  ]
+},
+{
+  "personCode": "321na",
+  "firstName": " Jon",
+  "lastName": "Pertwee",
+  "address": {
+    "street": "301 Front St W",
+    "city": " Toronto",
+    "state": " ON",
+    "zip": " M5V 2T6",
+    "country": " Canada"
+  },
+  "emails": [
+    "jpet@whofan.com"
+  ]
+},
+{
+  "personCode": "119CG",
+  "firstName": " Moe",
+  "lastName": "Ron",
+  "address": {
+    "street": "2456 S ST",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68501",
+    "country": "USA"
+  },
+  "emails": [
+    "moron@gmail.com"
+  ]
+},
+{
+  "personCode": "ABH2",
+  "firstName": " Hugh",
+  "lastName": "Jass",
+  "address": {
+    "street": "1234 Right Street",
+    "city": "Wrong",
+    "state": "YO",
+    "zip": "11111",
+    "country": "Country"
+  },
+  "emails": [
+    "hughjass@hotmail.com"
+  ]
+},
+{
+  "personCode": "5GCC",
+  "firstName": "Donald",
+  "lastName": "Trump",
+  "address": {
+    "street": "1060 West Addison Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "country": "USA"
+  }
+}
+] }

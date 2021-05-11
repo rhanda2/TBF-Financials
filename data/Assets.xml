@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<assets>
+<com.tbf.PrivateInvestment>
+  <code>WTF2</code>
+  <label>WTF:Where To Fish</label>
+  <quarterlyDividend>3000.0</quarterlyDividend>
+  <baseRateOfReturn>2.3</baseRateOfReturn>
+  <baseOmegaMeasure>0.45</baseOmegaMeasure>
+  <totalValue>1234567.0</totalValue>
+</com.tbf.PrivateInvestment>
+<com.tbf.Stock>
+  <code>321CC</code>
+  <label>Coca-Cola</label>
+  <quarterlyDividend>5.45</quarterlyDividend>
+  <baseRateOfReturn>3.1</baseRateOfReturn>
+  <betaMeasure>0.075</betaMeasure>
+  <stockSymbol>KO</stockSymbol>
+  <sharePrice>41.08</sharePrice>
+  <numShares>0</numShares>
+</com.tbf.Stock>
+<com.tbf.Stock>
+  <code>5GOOG23</code>
+  <label>Google Inc.</label>
+  <quarterlyDividend>0.1</quarterlyDividend>
+  <baseRateOfReturn>0.23</baseRateOfReturn>
+  <betaMeasure>5.6</betaMeasure>
+  <stockSymbol>GOOG</stockSymbol>
+  <sharePrice>345.67</sharePrice>
+  <numShares>0</numShares>
+</com.tbf.Stock>
+<com.tbf.Deposit>
+  <code>BX001-23</code>
+  <label>Money Market Savings</label>
+  <apr>1.05</apr>
+</com.tbf.Deposit>
+<com.tbf.Deposit>
+  <code>SAV23</code>
+  <label>Savings Account</label>
+  <apr>0.41</apr>
+</com.tbf.Deposit>
+</assets>

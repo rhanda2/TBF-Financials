@@ -1,0 +1,41 @@
+{
+"assets": [
+{
+  "quarterlyDividend": 3000.0,
+  "baseRateOfReturn": 2.3,
+  "baseOmegaMeasure": 0.45,
+  "totalValue": 1234567.0,
+  "code": "WTF2",
+  "label": "WTF:Where To Fish"
+},
+{
+  "quarterlyDividend": 5.45,
+  "baseRateOfReturn": 3.1,
+  "betaMeasure": 0.075,
+  "stockSymbol": "KO",
+  "sharePrice": 41.08,
+  "numShares": 0,
+  "code": "321CC",
+  "label": "Coca-Cola"
+},
+{
+  "quarterlyDividend": 0.1,
+  "baseRateOfReturn": 0.23,
+  "betaMeasure": 5.6,
+  "stockSymbol": "GOOG",
+  "sharePrice": 345.67,
+  "numShares": 0,
+  "code": "5GOOG23",
+  "label": "Google Inc."
+},
+{
+  "apr": 1.05,
+  "code": "BX001-23",
+  "label": "Money Market Savings"
+},
+{
+  "apr": 0.41,
+  "code": "SAV23",
+  "label": "Savings Account"
+}
+] }

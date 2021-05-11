@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<persons><com.tbf.Consumer>
+  <personCode>944c</personCode>
+  <firstName> Starlin</firstName>
+  <lastName>Castro</lastName>
+  <address>
+    <street>1060 West Addison Street</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60613</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>scastro@cubs.com</string>
+    <string>starlin_castro13@gmail.com</string>
+  </emails>
+</com.tbf.Consumer>
+<com.tbf.ExpertBroker>
+  <personCode>321na</personCode>
+  <firstName> Jon</firstName>
+  <lastName>Pertwee</lastName>
+  <address>
+    <street>301 Front St W</street>
+    <city> Toronto</city>
+    <state> ON</state>
+    <zip> M5V 2T6</zip>
+    <country> Canada</country>
+  </address>
+  <emails>
+    <string>jpet@whofan.com</string>
+  </emails>
+</com.tbf.ExpertBroker>
+<com.tbf.Consumer>
+  <personCode>119CG</personCode>
+  <firstName> Moe</firstName>
+  <lastName>Ron</lastName>
+  <address>
+    <street>2456 S ST</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68501</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <string>moron@gmail.com</string>
+  </emails>
+</com.tbf.Consumer>
+<com.tbf.JuniorBroker>
+  <personCode>ABH2</personCode>
+  <firstName> Hugh</firstName>
+  <lastName>Jass</lastName>
+  <address>
+    <street>1234 Right Street</street>
+    <city>Wrong</city>
+    <state>YO</state>
+    <zip>11111</zip>
+    <country>Country</country>
+  </address>
+  <emails>
+    <string>hughjass@hotmail.com</string>
+  </emails>
+</com.tbf.JuniorBroker>
+<com.tbf.ExpertBroker>
+  <personCode>5GCC</personCode>
+  <firstName>Donald</firstName>
+  <lastName>Trump</lastName>
+  <address>
+    <street>1060 West Addison Street</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>60613</zip>
+    <country>USA</country>
+  </address>
+</com.tbf.ExpertBroker>
+</persons>

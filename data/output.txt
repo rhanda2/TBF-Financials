@@ -1,0 +1,51 @@
+Portfolio Summary Report
+=======================================================================================
+Portfolio            Owner                          Manager                         Fees         Commissions  Weighted Risk   Return       Total
+BPF111               Castro    , Starlin              Jass      , Hugh                 $150.00      $895.39     1.0629      $71631.25    $544375.00
+PS123                Ron       , Moe                  Trump     , Donald               $0.00        $202.14     0.0409      $5390.28     $42203.78
+PQR45                Ron       , Moe                  Trump     , Donald               $0.00        $67.47      0.2105      $1799.22     $23239.20
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                          Totals    $150.00      $1165.00               $78820.75    $609817.98
+
+Portfolio Details
+=========================================================================================================
+Portfolio BPF111
+-----------------------------------------------------------
+Owner
+Castro, Starlin
+[scastro@cubs.com, starlin_castro13@gmail.com]
+1060 West Addison Street
+Lincoln, IL USA 60613
+
+ManagerJass, Hugh
+Beneficiary
+Ron, Moe
+[moron@gmail.com]
+2456 S ST
+Lincoln, NE USA 68501
+
+Assets
+Code                 Asset                                      Return Rate        Risk           Annual Return      Value
+WTF2                 WTF:Where To Fish                                  8.25%    0.50          $9900.00            $120000.00
+ABC1                 Arvind Band                                        14.55%    1.22          $61731.25           $424375.00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                      Total     1.0629         $71631.25           $544375.00
+
+Portfolio PS123
+-----------------------------------------------------------
+Owner
+Ron, Moe
+[moron@gmail.com]
+2456 S ST
+Lincoln, NE USA 68501
+
+ManagerTrump, Donald
+Beneficiary:
+None
+Assets
+Code                 Asset                                      Return Rate        Risk           Annual Return      Value
+SAV23                Savings Account                                    0.25%    0.00          $66.42              $26534.21
+BX001-23             Money Market Savings                               1.06%    0.00          $25.37              $2403.32
+5GOOG23              Google Inc.                                        39.94%    0.13          $5298.49            $13266.25
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                      Total     0.0409         $5390.28            $42203.78
